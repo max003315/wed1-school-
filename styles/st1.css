@@ -1,0 +1,20 @@
+.cl1 {
+    color: blue;
+}
+
+.cl2 {
+    color: red;
+}
+
+.tex1 {
+    text-shadow: black;
+}
+
+.tex2 {
+    text-decoration: underline;
+}
+
+.tex3 {
+    text-align: center;
+    line-height: 100px;
+}

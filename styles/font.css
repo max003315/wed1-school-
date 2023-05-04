@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+@font-face {
+    font-family: SCRIPTIN;
+    src: url(../fonts/SCRIPTIN.ttf);
+}
+
+h3.st1 {
+    color: blue;
+    text-transform: uppercase;
+}
+
+.st2 {
+    color: red;
+    text-transform: capitalize;
+}
+
+
+
+
+.t1 {
+    font-family: SCRIPTIN;
+}
+
+
+.p {
+    font-family: 'Dancing Script', cursive;
+
+}
